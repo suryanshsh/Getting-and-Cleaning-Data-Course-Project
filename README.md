@@ -1,7 +1,9 @@
 # Getting and Cleaning Data Week4 Project
 
 ### run_analysis.R
-
+ 
+ #### The data represents data collected from the accelerometers from the Samsung Galaxy S smartphone.
+ 
 ### What does the code do?
 1. Merges the training and the test sets to create one data set.
 Use command rbind to combine training and test set
